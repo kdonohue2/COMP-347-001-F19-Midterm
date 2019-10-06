@@ -42,5 +42,26 @@ IP addresses, both IPv4 and IPv6 are made up of two parts: network ID and host I
 
 A. True
 
+In order to encrypt messages larger than our key size (with secret keys), we need to run the encryption operation separately over key size chunks of the message.
+
+A. True
+
+How many UNIQUE keys does 3DES use?
+  
+  A. 2
+
+Which of the following are public key encryption algorithms (mark all that apply)?
+
+A. DSS, RSA		
+
+Match the element of RSA with its description
+
+n: Block value used as the basis for modular arithmetic in our calculations (also used as part of the public key)
+p and q: Principle values used to create the value of n used in modular mathematical operations
+d: Private key component used to decrypt messages and generate signatures
+e: Public key component used to encrypt messages and verify signatures
+
+
+
 
 
