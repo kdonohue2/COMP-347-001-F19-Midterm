@@ -34,9 +34,11 @@ An IPv6 header is always 48 bytes in length.
 A: False
 
 Routing protocols that are slow to converge, use aggregation to limit the number of known prefixes, provide bulk updates to configured neighbors and support knowledge of multiple ASNs would fall into which category (select the one best option)
-  A: External
+
+A: External
 
 IP addresses, both IPv4 and IPv6 are made up of two parts: network ID and host ID.
+
 A. True
 
 
