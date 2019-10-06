@@ -57,8 +57,11 @@ A. DSS, RSA
 Match the element of RSA with its description
 
 n: Block value used as the basis for modular arithmetic in our calculations (also used as part of the public key)
+
 p and q: Principle values used to create the value of n used in modular mathematical operations
+
 d: Private key component used to decrypt messages and generate signatures
+
 e: Public key component used to encrypt messages and verify signatures
 
 
