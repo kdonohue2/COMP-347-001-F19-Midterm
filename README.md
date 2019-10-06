@@ -88,6 +88,19 @@ Wireshark is a reasonable alternative to using tcpdump for packet capture and an
 
 A:True
 
+The first two bytes of an IP v4 packet with no special options or extensions of the standard IP header would be which of the following?
+
+A. 45
+
+Match the following IP protocols with their representation inside an IP packet header.
+
+ICMP - 01
+
+TCP - 06
+
+UDP - 11
+
+
 
 
 
