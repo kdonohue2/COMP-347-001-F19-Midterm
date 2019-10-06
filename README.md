@@ -31,6 +31,7 @@ Which of the following are valid fields in the IPv4 header (mark all that apply)
 A: The version, which for IPv4 is always 4, Header length, which usually indicates a header size of 20, Protocol, which indicates the protocol type of the payload (ex. ICMP, UDP, TCP), Source address, which indicates the source address of the packet
 
 An IPv6 header is always 48 bytes in length.
+
 A: False
 
 Routing protocols that are slow to converge, use aggregation to limit the number of known prefixes, provide bulk updates to configured neighbors and support knowledge of multiple ASNs would fall into which category (select the one best option)
