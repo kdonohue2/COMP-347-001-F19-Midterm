@@ -101,13 +101,18 @@ TCP - 06
 UDP - 11
 
 Which of the following are implemented using ICMP?
+ 
  A. Notice that the traffic that you sent was not able to arrive before it expired in transit with a TTL Expired message	
+ 
  B. Checking if a host is alive using Echo Request	
+ 
  C. Identify the size of a subnet with a Subnet Request message	
+ 
  D. Notice that traffic has been prevented from reaching the destination using Administratively Prohibited message	
+ 
  E. Notice that a host is not online with a Host Unreachable message
  
- (All correct)
+ (All are correct)
 
 
 
