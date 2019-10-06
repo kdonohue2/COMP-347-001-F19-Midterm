@@ -64,6 +64,28 @@ d: Private key component used to decrypt messages and generate signatures
 
 e: Public key component used to encrypt messages and verify signatures
 
+Which of the following are tools that we can use to capture and analyze network traffic?
+
+A: TCPDUMP, Wireshark	
+
+Hashing is a destructive operation that cannot be undone.
+
+A. True
+
+Which of the following can be implemented with hashing (mark all that apply)?
+ 
+ A. Message digests	
+ 
+ B. Encryption (by creating a stream cipher pad)	
+
+C. Secure storage of credentials (like passwords)	
+
+The ICMP protocol should be blocked completely for security reasons.
+
+B. False
+
+
+
 
 
 
