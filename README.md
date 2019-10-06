@@ -84,7 +84,9 @@ The ICMP protocol should be blocked completely for security reasons.
 
 B. False
 
+Wireshark is a reasonable alternative to using tcpdump for packet capture and analysis?
 
+A:True
 
 
 
