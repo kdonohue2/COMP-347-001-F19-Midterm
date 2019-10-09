@@ -112,7 +112,7 @@ Which of the following are implemented using ICMP?
  
  E. Notice that a host is not online with a Host Unreachable message
  
- (All are correct)
+ (All are true)
 
 
 
