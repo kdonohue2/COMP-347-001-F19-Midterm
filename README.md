@@ -16,7 +16,7 @@ A: False
 
 Which of the following are needed for an effective cryptographic operation
 
-A:Algorithm, Key , Secrecy
+A: Algorithm, Key , Secrecy
 
 Networking technology leverages a layered approach.
 
@@ -48,7 +48,7 @@ A. True
 
 How many UNIQUE keys does 3DES use?
   
-  A. 2
+A. 2
 
 Which of the following are public key encryption algorithms (mark all that apply)?
 
@@ -74,15 +74,15 @@ A. True
 
 Which of the following can be implemented with hashing (mark all that apply)?
  
- A. Message digests	
+A. Message digests	
  
- B. Encryption (by creating a stream cipher pad)	
+B. Encryption (by creating a stream cipher pad)	
 
 C. Secure storage of credentials (like passwords)	
 
 The ICMP protocol should be blocked completely for security reasons.
 
-B. False
+A. False
 
 Wireshark is a reasonable alternative to using tcpdump for packet capture and analysis?
 
@@ -113,8 +113,3 @@ Which of the following are implemented using ICMP?
  E. Notice that a host is not online with a Host Unreachable message
  
  (All are true)
-
-
-
-
-
