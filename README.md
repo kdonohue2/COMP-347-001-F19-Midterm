@@ -113,3 +113,23 @@ Which of the following are implemented using ICMP?
  E. Notice that a host is not online with a Host Unreachable message
  
  (All are true)
+ 
+Passwords prove you are who you say you are.
+
+A. False
+
+Which of the following can be used as part of two-factor authentication?
+
+ B. Something you are	
+ C. Something you know	
+ D. Something you have	
+
+Which of the following are issues with tokens used for authentication (mark all that apply)?
+
+ B. Synchronization	
+ C. Stolen	
+ D. Forgotten	
+
+KDCs can easily and efficiently scale within an organization as well as in a global setting.
+
+A.False
